@@ -10,16 +10,15 @@ git clone`https://github.com/wh0-1-am/Feed_Reader_Testing.git `
 
 2.  Open index.html in your browser.
 
-## Used 
-## Used:
-    *   Udacity exercise 
+## Used
+*   Udacity exercise 
 [UdacityProject](https://github.com/udacity/frontend-nanodegree-feedreader).Feed Reader Testing
 
 *   Jassmine
 [Jasmine](https://jasmine.github.io/)
   
 
-## The tests:
+## The tests
 1. tests to make sure that the allFeeds variable has been defined also not empty.
 2. loops through each feed and determines if the URL is defined and not empty.
 3. loops through each feed and determines that each feed has a name and not empty.
