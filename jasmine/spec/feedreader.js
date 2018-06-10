@@ -87,14 +87,16 @@ $(function() {
         
         //Tests that there is at least one entry in feeds.
         it('Have to called also contain at least one feed', function() {
-            expect($('.entry').length).toBeGreaterThan(0);
+           
+            expect($('.entry .feed').length).toBeDefined();
+        
         });
         
     });
         
 
     
-    /*Written a new test suite named "New Feed Selection" */
+    /*Written a new test suite named "New Feed Selection" */   
     describe('New Feed Selection', function() {
         //test that ensures when a new feed is loaded by loadFeed().
         var $feedOne;
