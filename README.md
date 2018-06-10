@@ -5,7 +5,8 @@
 ## Installing
 Please following these steps
 1.  Open your terminal post:
-git clone `https://github.com/wh0-1-am/Feed_Reader_Testing.git `
+
+git clone`https://github.com/wh0-1-am/Feed_Reader_Testing.git `
 
 2.  Open index.html in your browser.
 
@@ -14,8 +15,9 @@ git clone `https://github.com/wh0-1-am/Feed_Reader_Testing.git `
     *   Udacity exercise 
 [UdacityProject](https://github.com/udacity/frontend-nanodegree-feedreader).Feed Reader Testing
 
-    *   Jassmine
-    [Jasmine](https://jasmine.github.io).
+*   Jassmine
+[Jasmine](https://jasmine.github.io/)
+  
 
 ## The tests:
 1. tests to make sure that the allFeeds variable has been defined also not empty.
